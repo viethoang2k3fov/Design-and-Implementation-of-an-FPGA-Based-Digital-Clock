@@ -2,8 +2,7 @@
 
 ## 📌 Overview
 Project about the design and implementation of an FPGA-based digital clock.
-The system is fully implemented using Verilog HDL and operates entirely on FPGA
-without any microcontroller. In addition to real-time timekeeping, the clock
+The system is fully implemented using Verilog HDL . In addition to real-time timekeeping, the clock
 supports manual adjustment of hours, minutes, and seconds, as well as pause
 and resume functionality.
 
